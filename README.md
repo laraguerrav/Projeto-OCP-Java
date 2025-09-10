@@ -1,1 +1,1 @@
-![Diagrama de Arquitetura do Projeto](diagrama arquitetura.jpeg)
+![Diagrama de Arquitetura do Projeto](diagrama%20arquitetura.jpeg)
